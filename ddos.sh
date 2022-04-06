@@ -68,7 +68,7 @@ echo " Install tcpreplay "
    make
    sudo make install
 
-   sudo apt-get install build-essential libpcap-dev   # 安装libpcap
+   sudo apt-get install build-essential libpcap-dev   #  安装libpcap
    ./configure
 make
 sudo make install
