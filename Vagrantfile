@@ -68,5 +68,5 @@ Vagrant.configure("2") do |config|
   config.vm.provision "shell", path:"ddos.sh"
   #   apt-get update
   #   apt-get install -y apache2
-  # SHELL
+  # SHEL
 end
